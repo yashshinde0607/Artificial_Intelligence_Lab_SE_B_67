@@ -1,4 +1,4 @@
-# Artificial_Intelligence
+# Artificial_Intelligence Lab
 
 This repo demonstrates the knowledge base to understand basics of Artificial Intelligence.
 
