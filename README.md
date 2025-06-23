@@ -5,13 +5,13 @@ It has course material designed as per the S.E. Artificial Intelligence and Data
 
 ## Course Objectives:
 
-To introduce fundamental concepts and techniques in Artificial Intelligence.
+- To introduce fundamental concepts and techniques in Artificial Intelligence.
 
-To enable students to implement key AI algorithms for search, reasoning, and learning.
+- To enable students to implement key AI algorithms for search, reasoning, and learning.
 
-To develop practical skills in solving real-world problems using AI.
+- To develop practical skills in solving real-world problems using AI.
 
-To provide foundational knowledge in neural networks and decision-making systems.
+- To provide foundational knowledge in neural networks and decision-making systems.
 
 ## Course Outcomes: 
 
