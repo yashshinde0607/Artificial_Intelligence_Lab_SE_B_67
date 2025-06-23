@@ -29,51 +29,45 @@ It has course material designed as per the S.E. Artificial Intelligence and Data
 
 **Experiment 1**: 
 
-- **Aim**: Building an Expert System Using Rule-Based Systems
+- **Aim**: Develop an Expert System that provides simple decision-making.
 
-- **Objective**: Develop an Expert System that provides simple decision-making.
-  
 **Experiment 2**:
 
-- **Aim**: Implementing AI Search Algorithms (BFS & DFS) Maze Solver
-
-- **Objective**: Solve AI search problems using Graph Search Algorithms.
+- **Aim**: Implementing of Maze Solver using AI Search Algorithms (BFS & DFS).
 
 **Experiment 3**:
 
-- **Aim**: Implementation of A* algorithm
-
-- **Objective**: Solve AI search problems using Graph Search Algorithm.
+- **Aim**: Implementation of A* algorithm to solve AI search problems using Graph Search Algorithm.
 
 **Experiment 4**:
 
-- **Aim**: Implement a solution for Constraint Satisfaction Problem (CSP)
-
-- **Objective**: To implement a CSP-based solution for solving real-world problems like Map Coloring, Sudoku, or Timetable Scheduling using backtracking with constraint propagation.
+- **Aim**: Implement a solution for CSP-based solution for solving real-world problems like Map Coloring, Sudoku, or Timetable Scheduling using backtracking with constraint propagation.
 
 **Experiment 5**:
 
-- **Aim**: Implementing Minimax Algorithm
-
-- **Objective**:Understand and implement the basic Minimax algorithm for two-player deterministic games.
+- **Aim**: Understand and implement the basic Minimax algorithm for two-player deterministic games.
 
 **Experiment 6**:
 
-- **Aim**: Minimax with Alpha-Beta Pruning
-
-- **Objective**: Enhance Minimax using Alpha-Beta pruning to reduce computation time.
+- **Aim**: Enhance Minimax using Alpha-Beta pruning to reduce computation time.
 
 **Experiment 7**:
 
-- **Aim**: Write a program to plot a few activation functions that are being used in neural networks
-
-- **Objective**: To understand various activation functions used in neural networks
+- **Aim**: Assignment and practice of ChatGPT and its usage
 
 **Experiment 8**:
 
-- **Aim**: Implementing a Simple Neural Network
+- **Aim**: Assignment and practice of SORA
 
-- **Objective**: Build and train a basic neural network for classification m any arithmetical operation
+**Experiment 9**:
+
+- **Aim**: Assignment and practice of AI Image Genrator
+
+**Experiment 10**:
+
+- **Aim**: Assignment and practice of Prompt Engineering to craft effective prompts.
+
+
 
 
 
