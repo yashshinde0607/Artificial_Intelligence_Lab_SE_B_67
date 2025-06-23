@@ -32,7 +32,7 @@ It has course material designed as per the S.E. Artificial Intelligence and Data
 - **Aim**: Building an Expert System Using Rule-Based Systems
 
 - **Objective**: Develop an Expert System that provides simple decision-making.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 **Experiment 2**:
 
 - **Aim**: Implementing AI Search Algorithms (BFS & DFS) Maze Solver
