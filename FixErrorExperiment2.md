@@ -8,15 +8,15 @@ Step 2: If following error found
 
 Step 3: Resolve the issue as follows:
 
-- Remove the previous installed version of Frondict and experta as follows
+- Remove the previous installed version of **frondict** and **experta** as follows
   
 - ![Frozendict Uninstall ](images/Exp2ExecutionErrorResolutionImages/FrozenDict-ExpertaRemovalCOmmand.png)
 
-- Reinstall the required version of Frozendict as follows
+- Reinstall the required version of **frozendict** as follows
 
 - ![Frozendict Install ](images/Exp2ExecutionErrorResolutionImages/Frozendict2.3.4._InstallationCommand.png)
 
-- Use the **experta** instalaltion command as above replacing Frondict
+- Use the **experta** instalaltion command as above replacing **frondict**
 
 Step 4: Python code to be tested is as follows:
 
