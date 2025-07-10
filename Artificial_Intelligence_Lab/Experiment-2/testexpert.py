@@ -1,4 +1,4 @@
-from experta import KnowledgeEngine, Fact
+from experta import *
 
 class TestEngine(KnowledgeEngine):
     @Rule(Fact(test='ok'))
