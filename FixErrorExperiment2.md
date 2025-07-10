@@ -16,7 +16,7 @@ Step 3: Resolve the issue as follows:
 
 - ![Frozendict Install ](images/Exp2ExecutionErrorResolutionImages/Frozendict2.3.4._InstallationCommand.png)
 
-- Use the experta isntalaltion command as above replacing Frondict
+- Use the **experta** instalaltion command as above replacing Frondict
 
 Step 4: Python code to be tested is as follows:
 
